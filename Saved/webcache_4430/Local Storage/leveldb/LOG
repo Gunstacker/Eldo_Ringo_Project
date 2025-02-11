@@ -1,3 +1,2 @@
-2025/01/27-23:03:13.339 6538 Reusing MANIFEST C:/Users/augus/Documents/Unreal Projects/Eldo_Ringo/Eldo_Ringo_Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/01/27-23:03:13.358 6538 Recovering log #3
-2025/01/27-23:03:13.359 6538 Reusing old log C:/Users/augus/Documents/Unreal Projects/Eldo_Ringo/Eldo_Ringo_Project/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/02/07-19:43:17.584 10b4 Creating DB C:/Users/augus/Documents/GitHub/Eldo_Ringo_Project/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/02/07-19:43:17.593 10b4 Reusing MANIFEST C:/Users/augus/Documents/GitHub/Eldo_Ringo_Project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
