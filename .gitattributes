@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Saved/Autosaves/Game/Fab/The_Woman_and_the_Swan_texture_0_Auto1.uasset filter=lfs diff=lfs merge=lfs -text
+Saved/Autosaves/Game/Fab/The_Woman_and_the_Swan_texture_1_Auto1.uasset filter=lfs diff=lfs merge=lfs -text
